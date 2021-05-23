@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zepei.fan</id>
-    <title>Gridea</title>
-    <updated>2021-05-23T10:51:50.465Z</updated>
+    <title>Zepei.Fan</title>
+    <updated>2021-05-23T10:53:17.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zepei.fan"/>
     <link rel="self" href="https://zepei.fan/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://zepei.fan/images/avatar.png</logo>
     <icon>https://zepei.fan/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Zepei.Fan</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zepei.fan/post/hello-gridea/</id>
