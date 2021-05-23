@@ -2,44 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zepei.fan</id>
     <title>Zepei.Fan</title>
-    <updated>2021-05-23T11:07:58.063Z</updated>
+    <updated>2021-05-23T14:17:54.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zepei.fan"/>
     <link rel="self" href="https://zepei.fan/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>白马长枪飘如诗，披靡所向少年时</subtitle>
     <logo>https://zepei.fan/images/avatar.png</logo>
     <icon>https://zepei.fan/favicon.ico</icon>
     <rights>All rights reserved 2021, Zepei.Fan</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zepei.fan/post/hello-gridea/</id>
-        <link href="https://zepei.fan/post/hello-gridea/">
+        <title type="html"><![CDATA[Hello，my friends]]></title>
+        <id>https://zepei.fan/post/hello-friends/</id>
+        <link href="https://zepei.fan/post/hello-friends/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2021-05-23T14:13:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>zepei.fan</strong> ！<br>
+🌿  封面是老家门口前两颗核桃树构起的的枝繁叶茂。<br>
+✍️  在这里，我将记录我的生活与工作感悟，简单分享技术心得、笔记与一些有用的工具和网站... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>zepei.fan</strong> ！<br>
+🌿  封面是老家门口前两颗核桃树构起的的枝繁叶茂。<br>
+✍️  在这里，我将记录我的生活与工作感悟，简单分享技术心得、笔记与一些有用的工具和网站... ...</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p>##心路历程<br>
+<strong>1</strong><br>
+😘 建站的想法在初中时已经有了，彼时的我在微机课上接触了微软Office FrontPage，以为只要把页面布局画好，有个域名，就可以拥有自己的网站了。为了做一个类似于hao123一样的网站，在家我花了很长时间把页面粗糙弄好，又在网上找免费域名，百度知道上提问了很多问题，结果发现事情并没有那么简单，所以最后不了了之。<br>
+<strong>2</strong><br>
+😶 我不是cs科班出身，16年考研时，才知道有个职业叫前端工程师，咨询了大卫学前端要学些什么，心想读研后要“自学成才”，重拾少年的梦想。<br>
+<strong>3</strong><br>
+🤡 后来自学python，系统的接受了编程学习，但对很多东西的认知还停留在表面。那时想简单做个个人博客，html, css, js以及一些前端框架都学了一遍，又继续学flask, django等web开发框架。学了很多，也忘了很多。<br>
+<strong>4</strong><br>
+😃 后来了解多了，才知道做一个个人博客其实很简单，纯小白也能上手，比如我现在写的这篇文章，就是用github+静态博客写作客户端写下的。但是之前走的那些“弯路”，也让我加深了这些原理的理解。<br>
+<strong>5</strong><br>
+😇 因为都是自学，很多东西了解不全面，未来要做的还很多，学习的脚步不能停歇。</p>
 ]]></content>
     </entry>
 </feed>
