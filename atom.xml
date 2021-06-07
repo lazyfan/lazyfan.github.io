@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zepei.fan</id>
     <title>Zepei.Fan</title>
-    <updated>2021-06-07T14:27:40.897Z</updated>
+    <updated>2021-06-07T14:29:53.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zepei.fan"/>
     <link rel="self" href="https://zepei.fan/atom.xml"/>
@@ -37,8 +37,7 @@
 <h2 id="总结与展望">总结与展望</h2>
 <p>过去一年是我们团队高速发展的阶段，由7人扩大为15人。我有幸能够在早期加入，如今的我已经是团队的核心开发人员，代码贡献量稳居团队前三，除了硬件部署、数据采集、模型训练、算法开发和部署有我的身影外，在项目沟通、验证上，领导也安排了我与外界积极接触。<br>
 未来如果没有大变动的情况下，我的工作内容还是以做项目为主，兼顾一些研究性质任务。针对此，我需要变专变精，相关技术差距需要进一步补强。职场关系上，与同事交往还需更加开放，与领导的交流还需更加主动。另外，未来生活中将会出现的一些心理上压力，还需努力调理。<br>
-以上便是工作一年对自己的一点反思。<br>
-<img src="https://zepei.fan/post-images/1623075533140.jpg" alt="" loading="lazy"></p>
+以上便是工作一年对自己的一点反思。</p>
 ]]></content>
     </entry>
     <entry>
